@@ -1,4 +1,4 @@
-# Bilibili_Danmaku_Blocklist
+# BilibiliDanmakuBlocklist
 
 - 一个 bilibili 弹幕屏蔽规则
 - 屏蔽范围
